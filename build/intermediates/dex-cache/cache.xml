@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.0.0\dff931af436f0a2815d0109ab2258bbce2d6275d\glide-4.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dff931af436f0a2815d0109ab2258bbce2d6275d">
+        <dex dex="D:\kumpulan intermediate\IAKINTERMEDIATE\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="D:\kumpulan intermediate\IAKINTERMEDIATE\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.0.0\47c487cc4e64e6ab127a517669ca9a7b49f8c61d\gifdecoder-4.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47c487cc4e64e6ab127a517669ca9a7b49f8c61d">
+        <dex dex="D:\kumpulan intermediate\IAKINTERMEDIATE\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.0.0\d88059003509074dd59fa226c822724bcf5ec0ca\disklrucache-4.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d88059003509074dd59fa226c822724bcf5ec0ca">
+        <dex dex="D:\kumpulan intermediate\IAKINTERMEDIATE\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="D:\kumpulan intermediate\IAKINTERMEDIATE\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.0.0\f80192e6fd828d41c7da6f3552b0bef5d89cb26e\annotations-4.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f80192e6fd828d41c7da6f3552b0bef5d89cb26e">
+        <dex dex="D:\kumpulan intermediate\IAKINTERMEDIATE\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+
+</items>
