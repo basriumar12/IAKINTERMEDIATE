@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
     private void getData() {
 
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("http://192.168.1.33/db_resep/")
+                .baseUrl("http://192.168.1.33/db_resep/getdataresep.php/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
 

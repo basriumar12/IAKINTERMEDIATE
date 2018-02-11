@@ -51,14 +51,15 @@ public class AdapterResep extends
         holder.txtMakanan.setText(dataresep.get(position)
                         .getNamaResep1());
         Glide.with(context)
-                .load("http://192.168.1.33/db_resep/foto_makanan/"
-                        +dataresep.get(position).getGambar1())
+                .load(dataresep.get(position).getGambar1())
                 .into(holder.imgmakanan);
         //onklik itemview
         holder.itemView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
            Intent kirimdata = new Intent(context, DetailActivity.class);
+           //tambahan ya
+           kirimdata.putExtra("ID",dataresep.get(position).getIdResep1());
            kirimdata.putExtra("NAMA", dataresep.get(position).getNamaResep1());
            kirimdata.putExtra("DETAIL", dataresep.get(position).getDetail1());
            kirimdata.putExtra("GAMBAR", dataresep.get(position).getGambar1());
